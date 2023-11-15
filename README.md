@@ -6,7 +6,7 @@ A collection of my work in the Autonomous Agents, AI, Redteaming, and Applied An
 ## MyGPT's
 
 ### Ethics Navigator
-Guide AI alignment with interdisciplinary wisdom and a future-focused vision
+AI Alignment guided by interdisciplinary wisdom and a future-focused vision
 
 https://chat.openai.com/g/g-gO0wi53b8-ethics-navigator
 

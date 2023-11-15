@@ -8,3 +8,6 @@ A collection of my work in the Autonomous Agents, AI, Redteaming, and Applied An
 ### Ethics Navigator
 https://chat.openai.com/g/g-gO0wi53b8-ethics-navigator
 
+### Search Wizard
+https://chat.openai.com/g/g-A2T1Eohco-search-wizard
+

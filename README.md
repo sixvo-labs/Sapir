@@ -7,6 +7,7 @@ A collection of my work in the Autonomous Agents, AI, Redteaming, and Applied An
 
 ### Decision Guide
 Explaining and visualizing decision networks.
+
 https://chat.openai.com/g/g-kYhSdsMzs-decision-guide
 
 ### Ethics Navigator

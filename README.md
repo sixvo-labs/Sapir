@@ -5,6 +5,11 @@ A collection of my work in the Autonomous Agents, AI, Redteaming, and Applied An
 
 ## MyGPT's
 
+### Sapir
+A sophisticated AI assistant for search and analysis.
+
+https://chat.openai.com/g/g-GJkDiGE3Y-sapir
+
 ### Decision Guide
 Explaining and visualizing decision networks.
 

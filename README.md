@@ -1,9 +1,13 @@
 # Sapir
 A collection of my work in the Autonomous Agents, AI, Redteaming, and Applied Anthropology in AGI Research.
 
-2023-11-14 (daily updates in progress)
+2023-11-17 (daily updates in progress)
 
 ## MyGPT's
+
+### Decision Guide
+Explaining and visualizing decision networks.
+https://chat.openai.com/g/g-kYhSdsMzs-decision-guide
 
 ### Ethics Navigator
 AI Alignment guided by interdisciplinary wisdom and a future-focused vision

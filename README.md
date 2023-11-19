@@ -21,7 +21,7 @@ AI Alignment guided by interdisciplinary wisdom and a future-focused vision
 https://chat.openai.com/g/g-gO0wi53b8-ethics-navigator
 
 ### Search Wizard
-Your exprt guide to advanced search queries
+Your expert guide to advanced search queries
 
 https://chat.openai.com/g/g-A2T1Eohco-search-wizard
 
@@ -29,3 +29,8 @@ https://chat.openai.com/g/g-A2T1Eohco-search-wizard
 The search engine superuser's guide
 
 https://chat.openai.com/g/g-a7Txhlt9w-dorkable
+
+### Isorealism
+Reality can be a strange place, why shouldn't your art be?
+
+https://chat.openai.com/g/g-aFAKrKZWk-isorealism

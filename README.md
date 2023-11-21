@@ -34,3 +34,8 @@ https://chat.openai.com/g/g-a7Txhlt9w-dorkable
 Reality can be a strange place, why shouldn't your art be?
 
 https://chat.openai.com/g/g-aFAKrKZWk-isorealism
+
+### Flavor Matchmaker
+Generates lists of dishes matching flavor qualia
+
+https://chat.openai.com/g/g-HYQpSV8p7-flavor-matchmaker

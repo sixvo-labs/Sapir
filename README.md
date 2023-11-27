@@ -25,6 +25,11 @@ Your expert guide to advanced search queries
 
 https://chat.openai.com/g/g-A2T1Eohco-search-wizard
 
+### Data Model Diagrams
+Create HTML visual data models using mermaid.js
+
+https://chat.openai.com/g/g-fl0MtXb4J-data-model-diagrams
+
 ### Dorkable
 The search engine superuser's guide
 

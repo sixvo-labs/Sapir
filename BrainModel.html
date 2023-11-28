@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <div class="mermaid">
+    graph LR
+      A[Prefrontal Cortex] -->|Decision Analysis| B[Decision Oversight]
+      B -->|Integration| C[Central Decision Database]
+      D[Amygdala] -->|Emotional Processing| E[Emotional Dynamics]
+      F[Hippocampus] -->|Memory Management| G[Memory Archive]
+      H[Orbitofrontal Cortex] -->|Value Assessment| I[Value System]
+      J[Thalamus] -->|Sensory Relay| A
+      K[Anterior Cingulate Cortex] -->|Conflict Monitoring| L[Conflict Resolution]
+      M[Insula] -->|Signal Interpretation| N[Body-Mind Interface]
+      O[Ventral Striatum] -->|Reward Processing| I
+      P[Dorsolateral Prefrontal Cortex] -->|Cognitive Control| Q[Planning Unit]
+      R[Parietal Cortex] -->|Sensory Integration| S[Sensory Center]
+      T[Temporoparietal Junction] -->|Social Cognition| E
+      U[Supplementary Motor Area] -->|Motor Planning| V[Motor Division]
+      W[Cerebellum] -->|Coordination| V
+      X[Brainstem] -->|Autonomic Responses| Y[Autonomic Center]
+      Z[Cingulate Gyrus] -->|Emotion-Motivation Link| E
+      E -->|Feedback| C
+      G -->|Reference| C
+      I -->|Values Input| C
+      L -->|Resolution Feedback| C
+      N -->|Body Reports| C
+      Q -->|Strategic Insights| C
+      S -->|Sensory Data| C
+      V -->|Motor Feedback| C
+      Y -->|Autonomic Feedback| C
+      C -->|Synthesis| B
+      B -.->|Oversight Feedback| A
+      A -->|Cognitive Input| Q
+      G -->|Memory Input| F
+      AA[Broca's Area] -->|Language Production| BB[Speech Output]
+      CC[Wernicke's Area] -->|Language Comprehension| DD[Language Understanding]
+      EE[Visual Cortex] -->|Visual Processing| FF[Visual Representation]
+      GG[Auditory Cortex] -->|Auditory Processing| HH[Auditory Interpretation]
+      II[Olfactory Bulb] -->|Smell Processing| JJ[Olfactory Interpretation]
+      KK[Gustatory Cortex] -->|Taste Processing| LL[Taste Interpretation]
+      MM[Somatosensory Cortex] -->|Touch Processing| NN[Touch Interpretation]
+      OO[Association Areas] -->|Higher Order Processing| PP[Complex Thought]
+      QQ[Frontal Eye Fields] -->|Visual Attention| RR[Eye Movement Control]
+      SS[Basal Ganglia] -->|Movement Regulation| TT[Motor Activity Coordination]
+      UU[Corpus Callosum] -->|Hemispheric Communication| VV[Interhemispheric Transfer]
+      WW[Limbic System] -->|Emotional Regulation| XX[Emotional Balance]
+      YY[Neural Pathways] -->|Neurotransmission| ZZ[Synaptic Communication]
+      style C fill:#f9f,stroke:#333,stroke-width:2px
+      style A fill:#ff9,stroke:#333,stroke-width:2px
+      style B fill:#9f9,stroke:#333,stroke-width:2px
+  </div>
+
+  <script>
+    mermaid.initialize({startOnLoad:true});
+  </script>
+</body>
+</html>

@@ -1,7 +1,7 @@
 # Sapir
 A collection of work in OpenAI custom GPTs, prompt engineering, and AI/AGI Research.
 
-## An every growing list of my custom built GPTs
+## An ever-growing list of my custom built GPTs
 
 ### Sapir
 A sophisticated AI assistant for search and analysis.
